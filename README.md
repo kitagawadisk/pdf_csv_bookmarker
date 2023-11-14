@@ -5,7 +5,7 @@ main.pyを実行するとGUI起動。
 1. PDF-csv
    1.1. select(PDF to csv): 栞付きPDFから栞csvデータの抜出。
    
-   1.2. select(csv to PDF): 栞csvデータからPDFへの栞情報の書出。\n
+   1.2. select(csv to PDF): 栞csvデータからPDFへの栞情報の書出。
 
    1.3. select(new csv):    初期栞ファイルの作成
 
